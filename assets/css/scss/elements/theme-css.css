@@ -3482,7 +3482,7 @@ body .enabled_custom_title .title_page .main_tit {
 }
 .header .header_content_collapse .navigation_menu .navbar_nav li.mega_menu .dropdown-menu,
 .default_sickty_heaad .header_content_collapse .navigation_menu .navbar_nav li.mega_menu .dropdown-menu {
-  z-index: 999;
+  z-index:0;
 }
 .header .header_content_collapse .navigation_menu .navbar_nav li a.nav-link,
 .default_sickty_heaad .header_content_collapse .navigation_menu .navbar_nav li a.nav-link {
