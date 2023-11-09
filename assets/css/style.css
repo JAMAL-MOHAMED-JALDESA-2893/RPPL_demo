@@ -12,9 +12,16 @@ Generat Settings
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
+ .pcol2{
+  color: #fff !important;
+  font-weight: 900 !important;
+  font-size: larger;
+ }
+
 .pcol{
   color: #fff !important;
   font-weight: 900 !important;
+   
 }
 
  .cli{
